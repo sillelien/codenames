@@ -9,7 +9,7 @@ The hex-value should be 12 characters or more.
 
 # Why would I use this?
 
-To give meaningful and easy to remember names for commits, so that they can be used as codenames for releases. super-sized-wallaby is easier to remember than 4c33c6c7b7826063cd7d75b943057b5e5872661a.
+To give meaningful and easy to remember names for commits, so that they can be used as codenames for releases. unconditionally-brilliant-apple is easier to remember than 4c33c6c7b7826063cd7d75b943057b5e5872661a.
 
 # How random is this?
 
