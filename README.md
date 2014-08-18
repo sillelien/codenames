@@ -1,7 +1,7 @@
 codenames
 =========
 
-A sample bash script to convert hex values (such as commit ids) to codenames
+A simple bash script to convert hex values (such as commit ids) to codenames
 
     Usage ./name.sh <hex-value>
 
