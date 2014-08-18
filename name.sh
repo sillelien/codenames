@@ -9,9 +9,9 @@ part2Dec=$((16#${part2Hex}))
 part3Dec=$((16#${part3Hex}))
 
 adverbsLength=$(wc -l < ./adverbs.txt)
-adjLength=$(wc -l < ./adjectives.txt)
-nounLength=$(wc -l < ./nouns.txt)
+adjsLength=$(wc -l < ./adjectives.txt)
+nounsLength=$(wc -l < ./nouns.txt)
 
-echo $(sed -n $((part1Dec % adverbsLength))p ./adverbs.txt)-$(sed -n $((part2Dec % adverbsLength))p ./adjectives.txt)-$(sed -n $((part3Dec % adverbsLength))p ./nouns.txt)
+echo $(sed -n $((part1Dec % adverbsLength))p ./adverbs.txt)-$(sed -n $((part2Dec % adjsLength))p ./adjectives.txt)-$(sed -n $((part3Dec % nounsLength))p ./nouns.txt)
 
 
