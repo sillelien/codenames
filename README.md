@@ -24,6 +24,7 @@ Sure, the rules are as follows:
   1. All adverbs should be were possible West Coast Hip :-) Think Bill and Ted -> Point Blank -> Silicon Valley
   2. Adjectives must be positive, we're using these for releases so words like 'dank', 'messy' etc. don't really work well
   3. Nouns should be *cool* - yeah you figure out what cool means - things like llama, kitteh, cake are good, things like car, office, bucket aren't.
+  4. Fork and Pull Request, ta.
 
 
 Oh yeah and this is a quick and dirty hack so no validation or fancy stuff yet. But really do you need it for something this simple :-)
