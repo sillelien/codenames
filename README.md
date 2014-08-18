@@ -3,7 +3,7 @@ codenames
 
 A sample bash script to convert hex values (such as commit ids) to codenames
 
-    Usage ./names.sh <hex-value>
+    Usage ./name.sh <hex-value>
 
 The hex-value should be 12 characters or more.
 
