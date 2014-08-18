@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -eu
 cd $(dirname $0)
 part1Hex=$(echo $1 | cut -c1-4)
 part2Hex=$(echo $1 | cut -c5-8)
